@@ -5,6 +5,7 @@ import About from './component/About'
 import Project from './component/Project'
 import Contact from './component/Contact'
 
+
 function App() {
   
   return (
@@ -13,6 +14,7 @@ function App() {
     <About/>
     <Project/>
     <Contact/>
+   
     </>
   )
 }
